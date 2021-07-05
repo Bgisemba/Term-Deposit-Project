@@ -1,5 +1,5 @@
 # Term Deposit Analysis
-#### {}, {Date of current version}
+#### This is an exploratory data analysis on uptake of term deposits of a Portugese Bank, 5/07/2021.
 #### By **{Kevina, Brian, Dennis, Vanessa, Greg}}**
 ## Description
 {This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
