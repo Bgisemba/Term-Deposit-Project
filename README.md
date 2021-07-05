@@ -2,7 +2,8 @@
 #### This is an exploratory data analysis on uptake of term deposits of a Portugese Bank, 5/07/2021.
 #### By **{Kevina, Brian, Dennis, Vanessa, Greg}}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+There has been a revenue decline for a Portuguese bank and they would like to know what actions to take. After investigation, they found out that the root cause is that their clients are not depositing as frequently as before. Knowing that term deposits allow banks to hold onto a deposit for a specific amount of time, banks can invest in higher gain financial products to make a profit. In addition, banks also hold better chances to persuade term deposit clients into buying other products such as funds or insurance to further increase their revenues. As a result, the Portuguese bank would like to identify existing clients that have higher chances to subscribe for a term deposit and focus marketing efforts on such clients.
+
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
